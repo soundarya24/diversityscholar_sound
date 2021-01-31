@@ -1,19 +1,20 @@
 ---
-title: "Tobi Burns"
-image: "tobi.jpg"
+title: "Soundarya Soundararajan"
+image: "hello.png"
 links:
   - label: LinkedIn
-    url: "https://linkedin.com/"
+    url: "https://linkedin.com/in/soundaryasoundararajan"
   - label: Twitter
-    url: "https://twitter.com/"
+    url: "https://twitter.com/soundarya2410"
   - label: GitHub
-    url: "https://github.com/"
+    url: "https://github.com/soundarya24"
   - label: Email
-    url: "mailto:email@email.com"
+    url: "mailto:soundarya24@gmail.com"
 output:
   postcards::jolla
 ---
  
-I am a classically trained data scientist living in the San Francisco Bay Area. 
-Currently I work on the Oculus team at Facebook. I love talking about baseball, 
-true crime podcasts, and causal inference.
+I am a Double Doc (Medicine & Ph.D.) living in Ahmedabad, India.
+
+I am an absolute R lover; I visualize data even in my dreams!! 
+I use R for exploratory data analysis, data visualization and reproducible research. I am a proud advocate of OpenScience!
